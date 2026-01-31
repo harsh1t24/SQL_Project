@@ -1,3 +1,3 @@
 SELECT *
-from job_postings_fact
+from company_dim
 limit 100;
